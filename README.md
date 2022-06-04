@@ -82,30 +82,40 @@
   <tr>     <td>407</td><td>Proxy Authentication Required</td>    </tr>
   <tr>     <td>408</td><td>Request Timeout</td>    </tr>
   <tr>     <td>409</td><td>Conflict</td>    </tr>
-     <tr>     <td>410</td><td>Gone
-</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-   <tr>     <td>409</td><td>Conflict</td>    </tr>
-  <tr>     <td>409</td><td>Conflict</td>    </tr>
-                       <tr>     <td>409</td><td>Conflict</td>    </tr>
+  <tr>     <td>410</td><td>Gone</td>    </tr>
+   <tr>     <td>411</td><td>Length Required</td>    </tr>
+   <tr>     <td>412</td><td>Precondition Failed</td>    </tr>
+   <tr>     <td>413</td><td>Payload Too Large</td>    </tr>
+   <tr>     <td>414</td><td>URI Too Long</td>    </tr>
+   <tr>     <td>415</td><td>Unsupported Media Type</td>    </tr>
+   <tr>     <td>416</td><td>Range Not Satisfiable</td>    </tr>
+  <tr>      <td>417</td><td>Expectation Failed</td>    </tr>
+   <tr>     <td>418</td><td>I'm a teapot</td>    </tr>
+     <tr>     <td>421</td><td>Misdirected Request</td>    </tr>
+   <tr>     <td>422</td><td>Unprocessable Entity </td>    </tr>
+   <tr>     <td>423</td><td>Locked </td>    </tr>
+   <tr>     <td>424</td><td>Failed Dependency </td>    </tr>
+   <tr>     <td>425</td><td>Too Early </td>    </tr>
+  <tr>      <td>426</td><td>Upgrade Required</td>    </tr>
+   <tr>     <td>428</td><td>Precondition Required</td>    </tr>
+     <tr>     <td>429</td><td>Too Many Requests</td>    </tr>
+   <tr>     <td>431</td><td>Request Header Fields Too Large</td>    </tr>
+   <tr>     <td>451</td><td>Unavailable For Legal Reasons</td>    </tr>
   
 </table>
 
 # 5XX : HTTP Server Error code
 <table>
   <tr>    <th>code </th>     <th>Defination</th>   </tr>
-  <tr>     <td>300</td><td>Multiple Choices</td>    </tr>
-  <tr>     <td>301</td><td>Moved Permanently</td>    </tr>
-  <tr>     <td>302</td><td>Found</td>    </tr>
-  <tr>     <td>303</td><td>See Other</td>    </tr>
-  <tr>     <td>304</td><td>Not Modified</td>    </tr>
-  <tr>     <td>305</td><td>Use Proxy</td>    </tr>
-  <tr>     <td>306</td><td>Switch Proxy</td>    </tr>
-  <tr>     <td>307</td><td>Temporary Redirect</td>    </tr>
-  <tr>     <td>308</td><td>Permanent Redirect</td>    </tr>
-  
+  <tr>     <td>500</td><td> Internal Server Error</td>    </tr>
+  <tr>     <td>501</td><td> Not Implemented</td>    </tr>
+  <tr>     <td>502</td><td>Bad Gateway</td>    </tr>
+  <tr>     <td>503</td><td>Service Unavailable</td>    </tr>
+  <tr>     <td>504</td><td>Gateway Timeout</td>    </tr>
+  <tr>     <td>505</td><td>HTTP Version Not Supported</td>    </tr>
+  <tr>     <td>506</td><td>Variant Also Negotiates</td>    </tr>
+  <tr>     <td>507</td><td>Insufficient Storage </td>    </tr>
+  <tr>     <td>508</td><td>Loop Detected </td>    </tr>
+    <tr>     <td>510</td><td> Not Extended</td>    </tr>
+    <tr>     <td>511</td><td> Network Authentication Required</td>    </tr>
 </table>
