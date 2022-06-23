@@ -71,36 +71,36 @@
 
   # 4XX : HTTP Client Error code
 <table>
-  <tr>    <th>code </th>     <th>Defination</th>   </tr>
-  <tr>     <td>400</td><td>Bad Request</td>    </tr>
-  <tr>     <td>401</td><td>Unauthorized</td>    </tr>
-  <tr>     <td>402</td><td>Payment Required </td>    </tr>
-  <tr>     <td>403</td><td>Forbidden</td>    </tr>
-  <tr>     <td>404</td><td>Not Found</td>    </tr>
-  <tr>     <td>405</td><td>Method Not Allowed</td>    </tr>
-  <tr>     <td>406</td><td>Not Acceptable</td>    </tr>
-  <tr>     <td>407</td><td>Proxy Authentication Required</td>    </tr>
-  <tr>     <td>408</td><td>Request Timeout</td>    </tr>
-  <tr>     <td>409</td><td>Conflict</td>    </tr>
-  <tr>     <td>410</td><td>Gone</td>    </tr>
-   <tr>     <td>411</td><td>Length Required</td>    </tr>
-   <tr>     <td>412</td><td>Precondition Failed</td>    </tr>
-   <tr>     <td>413</td><td>Payload Too Large</td>    </tr>
-   <tr>     <td>414</td><td>URI Too Long</td>    </tr>
-   <tr>     <td>415</td><td>Unsupported Media Type</td>    </tr>
-   <tr>     <td>416</td><td>Range Not Satisfiable</td>    </tr>
-  <tr>      <td>417</td><td>Expectation Failed</td>    </tr>
-   <tr>     <td>418</td><td>I'm a teapot</td>    </tr>
-     <tr>     <td>421</td><td>Misdirected Request</td>    </tr>
-   <tr>     <td>422</td><td>Unprocessable Entity </td>    </tr>
-   <tr>     <td>423</td><td>Locked </td>    </tr>
-   <tr>     <td>424</td><td>Failed Dependency </td>    </tr>
-   <tr>     <td>425</td><td>Too Early </td>    </tr>
-  <tr>      <td>426</td><td>Upgrade Required</td>    </tr>
-   <tr>     <td>428</td><td>Precondition Required</td>    </tr>
-     <tr>     <td>429</td><td>Too Many Requests</td>    </tr>
-   <tr>     <td>431</td><td>Request Header Fields Too Large</td>    </tr>
-   <tr>     <td>451</td><td>Unavailable For Legal Reasons</td>    </tr>
+  <tr>    <th>code </th>     <th>Defination</th> <th>Description</th>  </tr>
+  <tr>     <td>400</td><td>Bad Request</td>  <td><td>  </tr>
+  <tr>     <td>401</td><td>Unauthorized</td>  <td><td>  </tr>
+  <tr>     <td>402</td><td>Payment Required </td> <td><td>   </tr>
+  <tr>     <td>403</td><td>Forbidden</td> <td><td>   </tr>
+  <tr>     <td>404</td><td>Not Found</td>  <td>As mentioned, a 404 Not Found Error indicates that the client (web browser) is receiving a message from the server (remote computer) that the specific resource (web page/URL) is unavailable.</td>  </tr>
+  <tr>     <td>405</td><td>Method Not Allowed</td> <td><td>   </tr>
+  <tr>     <td>406</td><td>Not Acceptable</td> <td><td>   </tr>
+  <tr>     <td>407</td><td>Proxy Authentication Required</td> <td><td>   </tr>
+  <tr>     <td>408</td><td>Request Timeout</td> <td><td>   </tr>
+  <tr>     <td>409</td><td>Conflict</td><td><td>    </tr>
+  <tr>     <td>410</td><td>Gone</td> <td><td>   </tr>
+   <tr>     <td>411</td><td>Length Required</td><td><td>    </tr>
+   <tr>     <td>412</td><td>Precondition Failed</td><td><td>    </tr>
+   <tr>     <td>413</td><td>Payload Too Large</td> <td><td>   </tr>
+   <tr>     <td>414</td><td>URI Too Long</td> <td><td>   </tr>
+   <tr>     <td>415</td><td>Unsupported Media Type</td> <td><td>   </tr>
+   <tr>     <td>416</td><td>Range Not Satisfiable</td> <td><td>   </tr>
+  <tr>      <td>417</td><td>Expectation Failed</td> <td><td>   </tr>
+   <tr>     <td>418</td><td>I'm a teapot</td>  <td><td>  </tr>
+     <tr>     <td>421</td><td>Misdirected Request</td><td><td>    </tr>
+   <tr>     <td>422</td><td>Unprocessable Entity </td><td><td>    </tr>
+   <tr>     <td>423</td><td>Locked </td>   <td><td> </tr>
+   <tr>     <td>424</td><td>Failed Dependency </td> <td><td>  </tr>
+   <tr>     <td>425</td><td>Too Early </td>  <td><td>  </tr>
+  <tr>      <td>426</td><td>Upgrade Required</td>  <td><td>  </tr>
+   <tr>     <td>428</td><td>Precondition Required</td> <td><td>   </tr>
+     <tr>     <td>429</td><td>Too Many Requests</td><td><td>    </tr>
+   <tr>     <td>431</td><td>Request Header Fields Too Large</td><td><td>    </tr>
+   <tr>     <td>451</td><td>Unavailable For Legal Reasons</td>  <td><td>  </tr>
   
 </table>
 
